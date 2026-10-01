@@ -1,3 +1,4 @@
+### Shiny Starters, Gifts, NPC Trades & Day Care Eggs v1.4.0
 **Shiny Starters, Gifts, NPC Trades & Day Care Eggs** makes newly received starters, scripted gifts, in-game NPC trades, and bred Day Care eggs shiny in Gen1Recomp.
 
 ### What’s New in v1.4.0
