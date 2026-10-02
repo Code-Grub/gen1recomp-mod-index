@@ -1,9 +1,9 @@
 # Auto Breeder
 
-Search engine-generated eggs for selected IVs, shininess and other traits.
+Search game-generated eggs for selected IVs, nature, gender, ability or shininess. Includes parent optimization and game-specific breeding rules.
 
-For **FireRed and LeafGreen** in gen1recomp (mod API 2). This experimental mod was developed with AI assistance using OpenAI Codex. Back up your saves before use.
+Supports Emerald, FireRed and LeafGreen. Recommend gen1recomp 0.3.42+. Import the individual ZIP, enable the mod and restart. Other collection mods, including Dual Screen, are optional.
 
-[Features, screenshots and instructions](https://github.com/CapnJames95/gen1recomp-mod-releases#mod-auto-breeder) · [Download 1.0.3](https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/autobreeder-1.0.3.zip)
+[Instructions and screenshots](https://github.com/CapnJames95/gen1recomp-auto-breeder#readme)
 
-Import the individual ZIP through **MODS → Import mod .zip**, enable it and restart. Runtime Lua source and original notices are included in the ZIP.
+Developed with AI assistance using OpenAI Codex. Automated checks and some manual testing have been performed; full gameplay and unrelated-mod compatibility are not certified. Back up saves.
