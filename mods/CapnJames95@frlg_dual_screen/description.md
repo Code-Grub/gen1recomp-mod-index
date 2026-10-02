@@ -1,11 +1,9 @@
-# FRLG Dual Screen
+# Gen3DualScreen
 
-A Kanto Gear-based companion screen that connects mod shortcuts, editors, encounters and QoL controls.
+Built on Kanto Gear 3.4.0 by AverageConsumer. Adds collection integrations, customizable Home shortcuts, live mod tools, compact field actions and encounter controls. Supports desktop side-by-side and separate-window layouts. AYN Thor is the only tested dual-screen device. Disable original Kanto Gear and conflicting dual-screen mods. Network permission supports inherited optional online features.
 
-For **FireRed and LeafGreen** in gen1recomp (mod API 2). This experimental mod was developed with AI assistance using OpenAI Codex. Back up your saves before use.
+Supports Emerald, FireRed and LeafGreen. Recommend gen1recomp 0.3.42+. Import the individual ZIP, enable the mod and restart. Other collection mods, including Dual Screen, are optional.
 
-[Features, screenshots and instructions](https://github.com/CapnJames95/gen1recomp-mod-releases#mod-frlg-dual-screen) · [Download 0.3.16](https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg-dual-screen-0.3.16.zip)
+[Instructions and screenshots](https://github.com/CapnJames95/gen1recomp-gen3dualscreen#readme)
 
-Import the individual ZIP through **MODS → Import mod .zip**, enable it and restart. Runtime Lua source and original notices are included in the ZIP.
-
-Built upon **Kanto Gear 3.3.3 by AverageConsumer**, with its MIT license and original credits preserved. This FRLG fork adds collection Home shortcuts, live editors, encounter coordination, contextual mod controls and touch integration. Only **AYN Thor** has been device-tested; other dual-screen devices are untested. [Original Kanto Gear](https://github.com/AverageConsumer/kanto-gear/releases/tag/v3.3.3).
+Developed with AI assistance using OpenAI Codex. Automated checks and some manual testing have been performed; full gameplay and unrelated-mod compatibility are not certified. Back up saves.
