@@ -1,9 +1,9 @@
 # Encounter Tour
 
-Teleport to static encounters, gifts and other destinations, individually or on a tour.
+Visit game-specific static encounters, gifts, fossil rewards and NPC trades individually or through a supported tour. Includes return-point support and native encounter eligibility checks.
 
-For **FireRed and LeafGreen** in gen1recomp (mod API 2). This experimental mod was developed with AI assistance using OpenAI Codex. Back up your saves before use.
+Supports Emerald, FireRed and LeafGreen. Recommend gen1recomp 0.3.42+. Import the individual ZIP, enable the mod and restart. Other collection mods, including Dual Screen, are optional.
 
-[Features, screenshots and instructions](https://github.com/CapnJames95/gen1recomp-mod-releases#mod-encounter-tour) · [Download 0.1.3](https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/encounter-tour-0.1.3.zip)
+[Instructions and screenshots](https://github.com/CapnJames95/gen1recomp-encounter-tour#readme)
 
-Import the individual ZIP through **MODS → Import mod .zip**, enable it and restart. Runtime Lua source and original notices are included in the ZIP.
+Developed with AI assistance using OpenAI Codex. Automated checks and some manual testing have been performed; full gameplay and unrelated-mod compatibility are not certified. Back up saves.
