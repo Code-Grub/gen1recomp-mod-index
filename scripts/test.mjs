@@ -101,6 +101,20 @@ test('a complete entry validates', () => {
   assert.deepEqual(validate(GOOD_META, schema), []);
 });
 
+test('game targets accept every supported game and generation', () => {
+  const games = ['red', 'blue', 'yellow', 'gold', 'silver', 'crystal',
+    'firered', 'leafgreen', 'emerald', 'gen1', 'gen2', 'gen3', 'frlg', 'rse', 'all'];
+  assert.deepEqual(validate({ ...GOOD_META, games }, schema), []);
+  assert.match(validate({ ...GOOD_META, games: ['unknown_game'] }, schema).join(), /is not one of/);
+});
+
+test('Untamed Advanced declares its supported Gen 3 games', () => {
+  const folder = 'goldenroddeptstore@untamed_advanced';
+  const result = checkModFolder(join(repoRoot, 'mods', folder), folder, schema);
+  assert.deepEqual(result.errors, []);
+  assert.deepEqual(result.meta.games, ['firered', 'leafgreen', 'emerald']);
+});
+
 test('required fields are required', () => {
   const { id, ...rest } = GOOD_META;
   assert.match(validate(rest, schema).join(), /missing required field "id"/);

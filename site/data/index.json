@@ -9967,7 +9967,12 @@
         "recent": 429,
         "window_days": 3,
         "as_of": "2026-10-02T12:08:51.858Z"
-      }
+      },
+      "games": [
+        "firered",
+        "leafgreen",
+        "emerald"
+      ]
     },
     {
       "folder": "goldenroddeptstore@overworldmons",

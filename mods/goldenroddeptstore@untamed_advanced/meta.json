@@ -16,6 +16,11 @@
     "chaining"
   ],
   "github": "goldenroddeptstore/Untamed-Advanced",
+  "games": [
+    "firered",
+    "leafgreen",
+    "emerald"
+  ],
   "permissions": [
     "engine_internals"
   ],
