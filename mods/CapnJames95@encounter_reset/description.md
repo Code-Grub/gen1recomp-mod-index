@@ -1,9 +1,9 @@
 # Encounter Reset
 
-Reset individual encounters, gifts, fossils, NPC trades or your roaming beast.
+Reset supported static encounters, gifts, fossils, NPC trades and roamers individually. Prepare repeat original starters in all three games after earning the Pokedex. Existing Pokemon and Pokedex records remain; native restrictions still apply.
 
-For **FireRed and LeafGreen** in gen1recomp (mod API 2). This experimental mod was developed with AI assistance using OpenAI Codex. Back up your saves before use.
+Supports Emerald, FireRed and LeafGreen. Recommend gen1recomp 0.3.42+. Import the individual ZIP, enable the mod and restart. Other collection mods, including Dual Screen, are optional.
 
-[Features, screenshots and instructions](https://github.com/CapnJames95/gen1recomp-mod-releases#mod-encounter-reset) · [Download 0.2.0](https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/encounter-reset-0.2.0.zip)
+[Instructions and screenshots](https://github.com/CapnJames95/gen1recomp-encounter-reset#readme)
 
-Import the individual ZIP through **MODS → Import mod .zip**, enable it and restart. Runtime Lua source and original notices are included in the ZIP.
+Developed with AI assistance using OpenAI Codex. Automated checks and some manual testing have been performed; full gameplay and unrelated-mod compatibility are not certified. Back up saves.
