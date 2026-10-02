@@ -1,9 +1,9 @@
 # Shiny Hunter
 
-Automate encounter attempts and stop for shinies or other selected targets.
+Configure automatic encounter attempts with shiny protection, target filters and optional normal ball capture. Includes recorded attempt replay. Avoid competing automation tools.
 
-For **FireRed and LeafGreen** in gen1recomp (mod API 2). This experimental mod was developed with AI assistance using OpenAI Codex. Back up your saves before use.
+Supports Emerald, FireRed and LeafGreen. Recommend gen1recomp 0.3.42+. Import the individual ZIP, enable the mod and restart. Other collection mods, including Dual Screen, are optional.
 
-[Features, screenshots and instructions](https://github.com/CapnJames95/gen1recomp-mod-releases#mod-shiny-hunter) · [Download 0.1.5](https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/shiny-hunter-0.1.5.zip)
+[Instructions and screenshots](https://github.com/CapnJames95/gen1recomp-shiny-hunter#readme)
 
-Import the individual ZIP through **MODS → Import mod .zip**, enable it and restart. Runtime Lua source and original notices are included in the ZIP.
+Developed with AI assistance using OpenAI Codex. Automated checks and some manual testing have been performed; full gameplay and unrelated-mod compatibility are not certified. Back up saves.
