@@ -2,23 +2,26 @@
   "id": "legalmon",
   "title": "LegalMon",
   "author": "CapnJames95",
-  "version": "0.17.1",
+  "version": "0.18.2",
   "categories": [
-    "TOOL"
+    "GAMEPLAY",
+    "TOOL",
+    "OTHER"
   ],
-  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
-  "summary": "Configure Pokémon, validate supported acquisition constraints and deliver them to party or PC.",
+  "repo": "https://github.com/CapnJames95/gen1recomp-legalmon",
+  "summary": "Build Pokemon with acquisition-specific legality checks.",
   "tags": [
+    "emerald",
     "firered",
-    "leafgreen"
+    "leafgreen",
+    "gen3",
+    "capnjames95"
   ],
-  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/legalmon-0.17.1.zip",
-  "game_version": ">=0.0.0-0 <2.0.0",
+  "github": "CapnJames95/gen1recomp-legalmon",
   "permissions": [
     "engine_internals"
   ],
   "api": 2,
   "profile": "overhaul",
-  "experimental": true,
-  "automatic_version_check": false
+  "experimental": true
 }
