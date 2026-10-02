@@ -1,8 +1,8 @@
 {
   "id": "shiny_starters_gifts",
-  "title": "Shiny Gifts & Starters",
+  "title": "Shiny Starters, Gifts, NPC Trades & Day Care Eggs",
   "author": "Satori7Kensho",
-  "version": "1.1.0",
+  "version": "1.4.0",
   "categories": [
     "ART",
     "UI",
@@ -12,9 +12,12 @@
   "tags": [
     "qol",
     "shiny",
-    "gift",
     "shiny starters",
-    "shiny gifts"
+    "shiny gifts",
+    "shiny trades",
+    "shiny eggs",
+    "day care",
+    "emerald"
   ],
   "github": "Satori7Kensho/gen1recomp-shiny-starters-gifts",
   "license": "MIT",
